@@ -6,7 +6,7 @@ This repository contains the report and presentation for our final year project 
 
 ## Authors
 
-This project was presented by:
+This project was realised by:
 
 - El Yagouby Mohamed Amine
 - Taghzouti Othmane
